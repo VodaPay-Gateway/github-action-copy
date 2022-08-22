@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: copy file
-      uses: canastro/copy-file-action@master
+      uses: vodapay-gateway/github-action-copy@master
       with:
         source: "tests/a.txt"
         target: "test-a.txt"
