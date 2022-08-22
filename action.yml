@@ -1,4 +1,4 @@
-name: 'Copy file'
+name: 'VPG Copy files'
 description: 'Copy files'
 author: 'VodaPay gateway'
 inputs:
