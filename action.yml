@@ -1,6 +1,6 @@
 name: 'Copy file'
-description: 'Copy local files'
-author: 'Ricardo Canastro'
+description: 'Copy files'
+author: 'VodaPay gateway'
 inputs:
   flags:
     description: 'Flags to use on the cp command. See "man cp" or "cp --help" for more details'
